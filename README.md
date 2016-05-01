@@ -18,6 +18,7 @@ Pathfinder is an implementation of the A* pathfinding algorithm to solve a path 
 
 Example Output
 ==============
+```
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 X!.X..........X.....X........X
 X!.XX..XXXXX..X.....X......X.X
@@ -48,6 +49,7 @@ X....X.X....X...XX....XXXX..!X
 XXX.........X.......X....XXX!X
 X....X............X........X!X
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+```
 
 LICENSE
 =======
